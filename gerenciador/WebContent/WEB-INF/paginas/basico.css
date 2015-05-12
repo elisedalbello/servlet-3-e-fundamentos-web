@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+body{
+	line-height: 1.5;
+	background-color: #ff898a;
+	font-family: "Tahoma", "Arial", serif;
+}
+p{
+	text-align: justify;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
